@@ -1,0 +1,72 @@
+# Arquivos de Saída e Relatórios
+Relatorio_Rede.html
+*.html
+
+# Arquivos de Sistema Windows
+Thumbs.db
+*.lnk
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+*.tmp
+*.bak
+*.swp
+
+# Arquivos Temporários PowerShell
+*.ps1xml
+*.pssc
+*.psc1
+
+# IDE e Editores
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node (se aplicável)
+node_modules/
+.npm
+
+# Python (se aplicável)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Arquivos de Configuração Pessoal
+.env
+.env.local
+.env.*.local
+config.local.json
+
+# Logs
+*.log
+logs/
+
+# Build e Distribuição
+dist/
+build/
+*.egg-info/
+
+# Arquivos Locais Não Versionados
+local/
+private/
+secrets/
+.local/
+
+# Git
+.git/
+.gitmodules
+
+# Macros Office
+*.xlsm
+*.docm
+
+# Comprimidos
+*.zip
+*.rar
+*.7z
